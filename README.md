@@ -3,6 +3,8 @@
 
 This repository focuses on building different versions of Neural Network Models with Keras that uses TensorFlow Backend.
 
+The data used for building Neural Network is stored with in the repository "housepricedata.csv". The code to build/train the different versions of Neural Network is located in the repository as "NeuralNetwork_Keras_and_Tensorflow.ipynb"
+
 ![ke](https://user-images.githubusercontent.com/65406908/88950685-f8bd3980-d262-11ea-8c2a-ef8eea826e6b.jpeg)
 
 
