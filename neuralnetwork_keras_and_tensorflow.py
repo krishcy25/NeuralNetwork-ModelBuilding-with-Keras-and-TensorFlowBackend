@@ -136,7 +136,7 @@ plt.legend(['Train', 'Val'], loc='lower right')
 plt.show()
 
 #Now, you can see that Model 2 is over fitting when compared to Model 1 due to additional hidden layers added to Model 2 when compared to Model 1
-#Overfitting is identified via Model Accuracy Graph above: Where the validation data accuracy decreases when compared to training data (at higher levels of epochs)
+#Overfitting is identified via Accuracy graph above where the Model performs very well on the Training data (with high accuracy) and performs worst on Validation data (with low accuracy when compared to Training data)
 
 #Model 3: Adding L2 regularization to same paramaters given to Model 2 thereby reducing the Overfitting in Model 2.
 #L2 regularization also referred to as Ridge regression
