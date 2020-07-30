@@ -10,7 +10,7 @@ The data used for building Neural Network is stored with in the repository "hous
 
 ## Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible
 
-3 different versions of Neural Networks were build in the code
+3 different versions of Neural Networks were built in the code (NeuralNetwork_Keras_and_Tensorflow.ipynb)
 
 ## Model 1: Sequential Model
 A Sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor.
